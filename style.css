@@ -1,0 +1,17 @@
+
+.cntainer{
+ background-color: blue;
+ width: 400px;
+ height: 200px;
+ margin: 10px;  
+ padding: 10px;
+}
+
+.card{
+    background-color: red;
+    width: 400px;
+    height: 200px;
+    border-width: 4pt solid black;
+    box-shadow: 10px 10px 5px lightblue inset;
+
+}
